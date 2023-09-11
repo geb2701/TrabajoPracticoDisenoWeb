@@ -1,0 +1,63 @@
+.navbarStyle{
+    background-color: #161616;
+    min-height: 8vh;
+    color: white;
+}
+
+.navbarNavOptions{
+    font-size:40px !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white !important;
+}
+
+.navbarNavOptionsSecondary{
+    font-size:38px !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white !important;
+}
+
+body{
+    background: linear-gradient(180deg, #052E37 0%, #172A41 100%);
+    color: white !important;
+}
+
+.footerStyle{
+    background-color: #161616;
+    text-align: right;
+    padding-left: 40px;
+    padding-right: 40px;
+    min-height: 12vh;
+}
+
+.footerStyle a{
+    text-decoration: none;
+    color: white;
+}
+
+.footerStyle a:hover {
+    text-decoration: underline;
+    color: blue; 
+}
+
+.listaSinPuntos{
+    list-style: none;
+}
+
+.main-content{
+    min-height: 80vh;
+}
+
+.main-Box{
+    min-height: 70vh;
+}
+
+.containerStyle{
+    margin: 100px;
+}
+
+.letra-album{
+    color: black !important;
+    font-size:20px !important;
+}
