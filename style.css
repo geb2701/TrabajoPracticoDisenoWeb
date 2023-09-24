@@ -4,6 +4,7 @@ html{
 
 header{
     background-color: #161616;
+    min-height: 6vh;
 }
 
 
@@ -17,7 +18,7 @@ body{
     text-align: right;
     padding-left: 40px;
     padding-right: 40px;
-    min-height: 12vh;
+    min-height: 10vh;
 }
 
 .footerStyle a{
@@ -35,7 +36,7 @@ body{
 }
 
 .main-content{
-    min-height: 80vh;
+    min-height: 84vh;
 }
 
 .main-Box{
