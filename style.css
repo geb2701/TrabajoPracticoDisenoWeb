@@ -1,53 +1,52 @@
-html{ 
-    color: white;
+html {
+  color: white;
 }
 
-header{
-    background-color: #161616;
-    min-height: 6vh;
+header {
+  background-color: #161616;
+  min-height: 6vh;
 }
 
-
-body{
-    background: linear-gradient(180deg, #052E37 0%, #172A41 100%);
-    color: white !important;
+body {
+  background: linear-gradient(180deg, #052e37 0%, #172a41 100%);
+  color: white !important;
 }
 
-.footerStyle{
-    background-color: #161616;
-    text-align: right;
-    padding-left: 40px;
-    padding-right: 40px;
-    min-height: 10vh;
+.footerStyle {
+  background-color: #161616;
+  text-align: right;
+  padding-left: 40px;
+  padding-right: 40px;
+  min-height: 10vh;
 }
 
-.footerStyle a{
-    text-decoration: none;
-    color: white;
+.footerStyle a {
+  text-decoration: none;
+  color: white;
 }
 
 .footerStyle a:hover {
-    text-decoration: underline;
-    color: blue; 
+  text-decoration: underline;
+  color: blue;
 }
 
-.listaSinPuntos{
-    list-style: none;
+.listaSinPuntos {
+  list-style: none;
 }
 
-.main-content{
-    min-height: 84vh;
+.main-content {
+  min-height: 84vh;
 }
 
-.main-Box{
-    min-height: 70vh;
+.main-Box {
+  min-height: 70vh;
 }
 
-.containerStyle{
-    margin: 100px;
+.containerStyle {
+  margin: 100px;
 }
 
-.letra-album{
-    color: black !important;
-    font-size:20px !important;
+.letra-album {
+  color: black !important;
+  font-size: 20px !important;
 }
