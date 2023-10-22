@@ -62,6 +62,7 @@ body {
   color: #016509;
   font-weight: bold;
 }
+
 .project-description {
   color: black;
 }
@@ -69,6 +70,10 @@ body {
 .card-img-top {
   object-fit: cover !important;
   height: 300px !important;
+}
+
+.card-pd-edit{
+  padding: 20px;
 }
 
 .card a {
