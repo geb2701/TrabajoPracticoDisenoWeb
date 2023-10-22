@@ -16,14 +16,6 @@ body {
   color: white !important;
 }
 
-.card-text {
-  color: black;
-}
-
-.card-title {
-  color: black;
-}
-
 .footerStyle {
   background-color: #016509;
   text-align: right;
@@ -75,10 +67,20 @@ body {
 }
 
 .card-img-top {
-  object-fit: cover;
-  height: 300px;
+  object-fit: cover !important;
+  height: 300px !important;
 }
 
 .card a {
   text-decoration: none !important;
+}
+
+.card-text,
+.card-text a {
+  color: black !important;
+}
+
+.card-title,
+.card-title a {
+  color: black !important;
 }
