@@ -16,6 +16,14 @@ body {
   color: white !important;
 }
 
+.card-text {
+  color: black;
+}
+
+.card-title {
+  color: black;
+}
+
 .footerStyle {
   background-color: #016509;
   text-align: right;
@@ -64,4 +72,13 @@ body {
 }
 .project-description {
   color: black;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 300px;
+}
+
+.card a {
+  text-decoration: none;
 }
