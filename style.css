@@ -74,6 +74,8 @@ body {
 
 .card-pd-edit{
   padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .card a {
@@ -88,4 +90,17 @@ body {
 .card-title,
 .card-title a {
   color: black !important;
+}
+
+.logoUade{
+  margin: 20px;
+  width: 50%;
+  object-fit: cover;
+  border: 2px solid black;
+}
+
+.fotter-logo{
+  display: flex;
+  justify-content: center !important;
+  align-items: center !important;
 }
