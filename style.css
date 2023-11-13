@@ -90,7 +90,7 @@ body {
 
 .logoUade{
   margin: 20px;
-  width: 60%;
+  width: 60% !important;
   min-width: 200px;
   object-fit: cover;
   border: 2px solid black;
