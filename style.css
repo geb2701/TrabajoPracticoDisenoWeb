@@ -32,7 +32,7 @@ body {
   color: blue;
 }
 
-.listaSinPuntos {
+.listaSinPuntos { 
   list-style: none;
   margin-bottom: 0px;
   padding-top: 10px;
@@ -102,7 +102,13 @@ body {
   align-items: center !important;
 }
 
+.aling-center-img img{
+  width: 100%;
+}
+
 .logoEconexion{
   width: 45%;
   max-width: 200px;
 }
+
+
